@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "my development log",
     email: "imhajung@gmail.com",
     linkedin: "",
-    github: "https://github.com/hajungIm",
+    github: "hajungIm",
     instagram: "",
   },
   projects: [
